@@ -2,6 +2,7 @@
 I would like to modify this so that it is subject to user input and ideally using a GUI to solicit input, and return the desired information. 
 My idea is that users will be able to select cryptocurrency tickers from a dictionary to add to their own personal list.
 That list would be saved for the user and the accessible at any time.
+Honestly, I think it would be nice first step just to send a notification like "Your [buy/sell] conditions for [asset] are currently met!" to user.
 Obviously, my skills and this project are still in infancy [at least as of 5/26/2021] feel free to share input!'''
 
 
